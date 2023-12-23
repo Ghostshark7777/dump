@@ -919,4 +919,3 @@ def divider():
 
 os.system('git pull')
 main_menu()
-, 
